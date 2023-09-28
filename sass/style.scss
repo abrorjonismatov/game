@@ -32,6 +32,8 @@ main {
           a {
             font-size: 16px;
             text-decoration: none;
+            z-index: 3;
+            position: relative;
           }
         }
       }
