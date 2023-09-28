@@ -50,6 +50,7 @@ main .contain {
   padding: 150px;
   font-size: larger;
   display: flex;
+  background-color: rgb(15, 8, 0);
 }
 main .contain .logo-1 {
   width: 100vh;
@@ -103,7 +104,7 @@ main .contain-2 .main .img-1 {
   text-align: center;
 }
 main .contain-3 {
-  background: linear-gradient(180.96deg, #000000 0.82%, #4a2800 129.1%);
+  background-color: rgb(15, 8, 0);
   text-align: center;
   padding: 100px 100px;
 }
@@ -128,13 +129,32 @@ main .contain-5 button {
 }
 main .contain-6 {
   display: block;
-  text-align: center;
-  padding: 100px 100px;
+  text-align: start;
+  padding: 100px 250px;
 }
-main .contain-7 img {
-  width: 100%;
+main .contain-7 {
+  font-size: large;
+  padding: 100px 100px;
+  background-color: rgb(15, 8, 0);
+  display: flex;
+}
+main .contain-7 .group-1 {
+  display: block;
+  padding-right: 80px;
+}
+main .contain-7 .group-2 {
+  padding: 0 80px;
+}
+main .contain-7 .group-3 {
+  padding: 0 80px;
+}
+main .contain-8 {
+  text-align: center;
+  padding: 30px 0;
+  background-color: rgb(15, 8, 0);
 }
 main .container-1 {
+  background-color: rgb(15, 8, 0);
   padding-bottom: 100px;
   padding-top: 50px;
   padding-left: 100px;
@@ -153,6 +173,7 @@ main .container-1 .about-us-1 button {
 }
 main .container-2 {
   padding: 100px 100px;
+  background-color: rgb(15, 8, 0);
 }
 main .container-2 .Ipsums {
   display: flex;
@@ -196,20 +217,38 @@ main .container-3 .lorem-2 p:last-child {
 }
 main .container-4 {
   padding: 100px 100px;
-  background-color: #1c140f;
+  background-color: rgb(15, 8, 0);
+  text-align: center;
+}
+main .container-4 h1 {
+  text-align: start;
+}
+main .container-4 .COO-box {
+  display: flex;
+  gap: 20px;
+  text-align: center;
+  padding: 0 100px;
+}
+main .container-4 .COO-box .COO {
+  border-radius: 20px;
+  width: 295px;
+  height: 253px;
+  text-align: center;
+  align-items: center;
+  background-color: #1C140F;
 }
 main .container-5 {
   padding: 100px 100px;
-  background-color: #602a08;
+  background-color: rgb(15, 8, 0);
 }
 main .container-5 .stay {
-  background-color: #1C140F;
+  background-color: #1c140f;
   border-radius: 15px;
   padding: 100px 100px;
 }
 main .container-6 {
   padding: 100px 100px;
-  background-color: black;
+  background-color: rgb(15, 8, 0);
 }
 
 /*# sourceMappingURL=style.css.map */
