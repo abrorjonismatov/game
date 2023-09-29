@@ -352,4 +352,116 @@ main .main-3 form label {
   margin-right: 10px;
 }
 
+.home_sevices {
+  margin: 50px auto;
+}
+
+.services_headline p {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0em;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.services_headline p span {
+  color: #E47500;
+}
+.services_headline h3 {
+  font-family: Poppins;
+  font-size: 33px;
+  font-weight: 600;
+  line-height: 60px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.services_headline h4 {
+  font-family: Poppins;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.services_Second_line {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background: #1C140F;
+  width: 1140px;
+  height: 200px;
+  top: 393px;
+  left: 170px;
+  border-radius: 10px;
+  margin: 50px auto;
+}
+.services_Second_line div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+.services_Second_line div div {
+  display: block;
+  text-align: left;
+}
+
+hr {
+  width: 100px;
+  transform: rotate(90deg);
+  margin-left: 50px;
+}
+
+.services_main {
+  margin: 0px auto;
+}
+
+.spider-man {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.services_body {
+  background: #000000;
+}
+
+.game_info_about {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 200px;
+  margin: 150px auto;
+}
+.game_info_about h2 {
+  font-family: Poppins;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 45px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.game_info_about p {
+  font-family: Poppins;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.game_info_about button {
+  width: 177px;
+  height: 50px;
+  background: #DC7000;
+  border-radius: 20px;
+}
+
+.Trusted_div {
+  background: #1C140F;
+  width: 100%;
+  height: 638px;
+}
+
 /*# sourceMappingURL=style.css.map */
